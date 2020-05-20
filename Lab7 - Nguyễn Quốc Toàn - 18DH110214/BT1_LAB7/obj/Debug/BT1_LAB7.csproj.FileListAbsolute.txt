@@ -1,0 +1,39 @@
+C:\Users\ASUS\source\repos\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\bin\Debug\BT1_LAB7.exe
+C:\Users\ASUS\source\repos\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\bin\Debug\BT1_LAB7.exe.config
+C:\Users\ASUS\source\repos\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.Form1.resources
+C:\Users\ASUS\source\repos\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.FormUpdate.resources
+C:\Users\ASUS\source\repos\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.Properties.Resources.resources
+C:\Users\ASUS\source\repos\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.exe
+C:\Users\ASUS\source\repos\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.pdb
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\bin\Debug\BT1_LAB7.exe
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\bin\Debug\BT1_LAB7.exe.config
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.Form1.resources
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.FormUpdate.resources
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.Properties.Resources.resources
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.csproj.GenerateResource.cache
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.csproj.CoreCompileInputs.cache
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.exe
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.pdb
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\bin\Debug\BT1_LAB7.exe.config
+C:\Users\ASUS\Desktop\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\bin\Debug\BT1_LAB7.exe
+C:\Users\ASUS\Desktop\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\bin\Debug\BT1_LAB7.pdb
+C:\Users\ASUS\Desktop\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.Form1.resources
+C:\Users\ASUS\Desktop\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.FormUpdate.resources
+C:\Users\ASUS\Desktop\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.Properties.Resources.resources
+C:\Users\ASUS\Desktop\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.exe
+C:\Users\ASUS\Desktop\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.pdb
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\bin\Debug\BT1_LAB7.pdb
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.FormDelete.resources
+D:\CodeStoreWindows\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.FormEdit.resources
+D:\GitHub\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\bin\Debug\BT1_LAB7.exe.config
+D:\GitHub\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.exe
+D:\GitHub\Windows\NguyenKimTien_18DH110638_LAB7\BT1_LAB7\obj\Debug\BT1_LAB7.pdb
+D:\GitHub\My-project\Lab7 - Nguyễn Quốc Toàn - 18DH110214\BT1_LAB7\bin\Debug\BT1_LAB7.exe.config
+D:\GitHub\My-project\Lab7 - Nguyễn Quốc Toàn - 18DH110214\BT1_LAB7\obj\Debug\BT1_LAB7.exe
+D:\GitHub\My-project\Lab7 - Nguyễn Quốc Toàn - 18DH110214\BT1_LAB7\obj\Debug\BT1_LAB7.pdb

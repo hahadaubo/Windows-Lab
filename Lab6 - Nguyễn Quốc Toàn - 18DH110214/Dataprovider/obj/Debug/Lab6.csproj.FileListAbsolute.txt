@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\LAB Win\Lab6\Dataprovider\bin\Debug\Dataprovider.exe.config
+C:\Users\USER\Desktop\LAB Win\Lab6\Dataprovider\bin\Debug\Dataprovider.exe
+C:\Users\USER\Desktop\LAB Win\Lab6\Dataprovider\bin\Debug\Dataprovider.pdb
+C:\Users\USER\Desktop\LAB Win\Lab6\Dataprovider\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\LAB Win\Lab6\Dataprovider\obj\Debug\Dataprovider.exe
+C:\Users\USER\Desktop\LAB Win\Lab6\Dataprovider\obj\Debug\Dataprovider.pdb
